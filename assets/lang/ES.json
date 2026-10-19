@@ -397,7 +397,7 @@
     "test-mail-header": "Correo de prueba",
     "acceptemailplease": "Por favor, confirma tu inicio de sesión, hemos enviado un correo electrónico a la dirección proporcionada.",
     "notcorrectlogin": "Dirección de correo electrónico o contraseña inválida!",
-    "test-mail-body": "¡Este es un correo de prueba",
+    "test-mail-body": "¡Este es un correo de prueba!",
     "newemailaddress": "Nueva dirección de correo electrónico:",
     "docssendmail": "Envío de correos electrónicos",
     "docssmtpheader": "GYM One actualmente solo admite el servicio de correo electrónico <strong>Google SMTP</strong>!",
